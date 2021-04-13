@@ -1,0 +1,26 @@
+{
+    "name": "size-chart",
+    "version": "1.0.0",
+    "description": "",
+    "main": "dist/index.js",
+    "types": "dist",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JorenRothman/size-chart.git"
+    },
+    "scripts": {
+        "start": "tsc --watch",
+        "build": "tsc -p .",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "swiper",
+        "lazy",
+        "initialization"
+    ],
+    "author": "Joren Rothman",
+    "license": "MIT",
+    "devDependencies": {
+        "typescript": "^4.2.3"
+    }
+}
