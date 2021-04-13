@@ -14,9 +14,11 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [
-        "swiper",
-        "lazy",
-        "initialization"
+        "e-commerce",
+        "size chart",
+        "canvas",
+        "draw",
+        "image"
     ],
     "author": "Joren Rothman",
     "license": "MIT",
